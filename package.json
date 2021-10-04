@@ -1,0 +1,22 @@
+{
+  "name": "textracted-files",
+  "version": "1.0.0",
+  "description": "files extractedeith textract module Currently Extracts... HTML, HTM ATOM, RSS EPUB XML, XSL PDF DOC, DOCX ODT, OTT (experimental, feedback needed!) RTF XLS, XLSX, XLSB, XLSM, XLTX CSV ODS, OTS PPTX, POTX ODP PNG, JPG, GIF DXF application/javascript All text/* mime-types",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashkey98/textracted-files.git"
+  },
+  "author": "Ashish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashkey98/textracted-files/issues"
+  },
+  "homepage": "https://github.com/Ashkey98/textracted-files#readme",
+  "dependencies": {
+    "textract": "^2.5.0"
+  }
+}
